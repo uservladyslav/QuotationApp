@@ -74,7 +74,7 @@ The second screen shows the full text of the quote and the author's name.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/userladyslav/QuotationApp.git
+git clone https://github.com/uservladyslav/QuotationApp.git
 
 
 
